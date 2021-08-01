@@ -9,6 +9,7 @@ TOKEN = ""
 # Where all the logs of everything are stored.
 # Default: "logs.txt"
 LOG_FILE = "logs.txt"
+
 # File where the codes are stored.
 # Codes are given out by lines, so make sure they are split line by line.
 # Default: "codes.txt"
@@ -17,6 +18,11 @@ CODES_FILE = "codes.txt"
 # Role ID
 # This is the ID of the role which is allowed to use the gen.
 ROLE_ID = 867366769392091157
+
+# Cooldown
+# This is the seconds cooldown each user has per usage.
+# 86400 is a day / 3600 is an hour
+COOLDOWN = 86400
 
 # imports here
 import asyncio
@@ -153,7 +159,7 @@ async def on_command_error(ctx, error):
         await log("no perms", ctx.author, "generate")
 
 @bot.command()
-@commands.cooldown(1, 86400) # 1 is codes per cooldown // 86400 is the cooldown time (is in second)
+@commands.cooldown(1, COOLDOWN) # 1 is codes per cooldown // 86400 is the cooldown time (is in second)
 @commands.has_role(ROLE_ID) # role for gen perms
 @commands.guild_only()
 async def generate(ctx):
