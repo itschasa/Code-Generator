@@ -1,0 +1,24 @@
+
+
+[  BOOTUP  ] 2021-07-21 12:26:49 // Bot was turned on.
+[ USERINFO ] 2021-07-21 12:26:55 ID: 864250923692851210 User: Chasa#4490 // User used the userinfo command on: Chasa#4490
+[ NO PERMS ] 2021-07-21 12:27:20 ID: 864250923692851210 User: Chasa#4490 // User does not have the significant permissions for the generate command.
+[   PING   ] 2021-07-21 12:27:31 ID: 864250923692851210 User: Chasa#4490 // User used the ping command.
+[   PING   ] 2021-07-21 12:27:45 ID: 864250923692851210 User: Chasa#4490 // User used the ping command.
+
+[  BOOTUP  ] 2021-07-21 12:28:05 // Bot was turned on.
+[ CRITICAL ]2021-07-21 12:28:05 // Cannot fetch role (8673667693920911571) from Chasa's server. Exiting in 5 seconds.
+
+[  BOOTUP  ] 2021-07-21 12:28:23 // Bot was turned on.
+[ CRITICAL ] 2021-07-21 12:28:23 // Cannot fetch role (8673667693920911571) from Chasa's server. Exiting in 5 seconds.
+
+[  BOOTUP  ] 2021-07-21 12:28:39 // Bot was turned on.
+[ USERINFO ] 2021-07-21 12:28:55 ID: 864250923692851210 User: Chasa#4490 // User used the userinfo command on: Chasa#4490
+[ USERINFO ] 2021-07-21 12:29:07 ID: 864250923692851210 User: Chasa#4490 // User used the userinfo command on: Chasa#4490
+[ NO STOCK ] 2021-07-21 12:29:16 ID: 864250923692851210 User: Chasa#4490 // User couldn't be sent a code as there is no stock.
+[ USERINFO ] 2021-07-21 12:29:48 ID: 864250923692851210 User: Chasa#4490 // User used the userinfo command on: Chasa#4490
+
+[  BOOTUP  ] 2021-07-21 12:30:37 // Bot was turned on.
+[ USERINFO ] 2021-07-21 12:30:38 ID: 864250923692851210 User: Chasa#4490 // User used the userinfo command on: Chasa#4490
+[ USERINFO ] 2021-07-21 12:30:44 ID: 864250923692851210 User: Chasa#4490 // User used the userinfo command on: Chasa#4490
+[ NO STOCK ] 2021-07-21 12:30:52 ID: 864250923692851210 User: Chasa#4490 // User couldn't be sent a code as there is no stock.
